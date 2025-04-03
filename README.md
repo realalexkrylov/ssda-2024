@@ -1,4 +1,4 @@
-# Summer school of data analysis 2024 (applied data analysis at HSE)
+# [Summer school of data analysis 2024 (applied data analysis at HSE)](https://cs.hse.ru/dataschool/2024/)
 
 
 # MNIST Classifier
